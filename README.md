@@ -197,15 +197,15 @@ key | option type / notes | example
 `interactivity.events.onclick.enable` | boolean | `true` / `false`
 `interactivity.events.onclick.mode` | string <br /> array selection | `"push"` <br /> `"remove"` <br /> `"bubble"` <br /> `"repulse"` <br /> `["push", "repulse"]`
 `interactivity.events.resize` | boolean | `true` / `false`
-`interactivity.events.modes.grab.distance` | number | `100`
-`interactivity.events.modes.grab.line_linked.opacity` | number (0 to 1) | `0.75`
-`interactivity.events.modes.bubble.distance` | number | `100`
-`interactivity.events.modes.bubble.size` | number | `40`
-`interactivity.events.modes.bubble.duration` | number <br /> (second) | `0.4`
-`interactivity.events.modes.repulse.distance` | number | `200`
-`interactivity.events.modes.repulse.duration` | number <br /> (second) | `1.2`
-`interactivity.events.modes.push.particles_nb` | number | `4`
-`interactivity.events.modes.push.particles_nb` | number | `4`
+`interactivity.modes.grab.distance` | number | `100`
+`interactivity.modes.grab.line_linked.opacity` | number (0 to 1) | `0.75`
+`interactivitys.modes.bubble.distance` | number | `100`
+`interactivity.modes.bubble.size` | number | `40`
+`interactivity.modes.bubble.duration` | number <br /> (second) | `0.4`
+`interactivity.modes.repulse.distance` | number | `200`
+`interactivity.modes.repulse.duration` | number <br /> (second) | `1.2`
+`interactivity.modes.push.particles_nb` | number | `4`
+`interactivity.modes.push.particles_nb` | number | `4`
 `retina_detect` | boolean | `true` / `false`
 
 -------------------------------
