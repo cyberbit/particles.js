@@ -199,7 +199,7 @@ key | option type / notes | example
 `interactivity.events.resize` | boolean | `true` / `false`
 `interactivity.modes.grab.distance` | number | `100`
 `interactivity.modes.grab.line_linked.opacity` | number (0 to 1) | `0.75`
-`interactivitys.modes.bubble.distance` | number | `100`
+`interactivity.modes.bubble.distance` | number | `100`
 `interactivity.modes.bubble.size` | number | `40`
 `interactivity.modes.bubble.duration` | number <br /> (second) | `0.4`
 `interactivity.modes.repulse.distance` | number | `200`
